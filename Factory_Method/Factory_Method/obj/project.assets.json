@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\source\\repos\\Design-Patterns\\Factory_Method\\Factory_Method\\Design_Patterns.csproj",
-      "projectName": "Design_Patterns",
-      "projectPath": "C:\\Users\\usuario\\source\\repos\\Design-Patterns\\Factory_Method\\Factory_Method\\Design_Patterns.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\source\\repos\\Design-Patterns\\Factory_Method\\Factory_Method\\Factory_Method.csproj",
+      "projectName": "Factory_Method",
+      "projectPath": "C:\\Users\\usuario\\source\\repos\\Design-Patterns\\Factory_Method\\Factory_Method\\Factory_Method.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\usuario\\source\\repos\\Design-Patterns\\Factory_Method\\Factory_Method\\obj\\",
       "projectStyle": "PackageReference",
